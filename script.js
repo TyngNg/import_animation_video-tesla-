@@ -1,0 +1,1 @@
+gsap.fromTo(".hero h2", { opacity: 0 }, { opacity: 1, duration: 2, delay: 3.5 });
